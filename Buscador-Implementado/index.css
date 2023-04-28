@@ -1,0 +1,55 @@
+
+.barra {
+    background-color: red;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    width: 100%;
+  }
+
+  .icon-user {
+    position:absolute;
+    left: 95%;
+  }
+
+  .corpo {
+    position: absolute;
+    top: 10%;
+    right: 30%;
+  }
+
+#divBusca{
+    background-color: transparent;
+    border:solid 1px;
+    border-radius:15px;
+    width:550px;
+  }
+  
+  #txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height: 20px;
+    width:500px;
+  }
+
+  .anuncio1 {
+    position: absolute;
+    top: 80%;
+    right: 33%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .results1 {
+    position: absolute;
+    top: 40%;
+    right: 33%;
+    justify-content: center;
+    align-items: center;
+  }
